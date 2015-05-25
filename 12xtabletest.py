@@ -1,16 +1,22 @@
-#;  2015-05-24  administrator  <administrator@BensBIY-PC>
+#;  2015-05-25  jonnyboo6777  <unknownzonemobile@gmail.com>
+#;
+#;  * Solved brackets appearing when printing out text.
+#;
+#;
+#;
+#;  2015-05-24  jonnyboo6777  <unknownzonemobile@gmail.com>
 #;
 #;  * Fixed traceback error when entering name.
 #;
 #;
 #;
-#;  2015-05-24  administrator  <administrator@BensBIY-PC>
+#;  2015-05-24  jonnyboo6777  <unknownzonemobile@gmail.com>
 #;
 #;   * Added comments to make the program more flegling programmer
 #;   friendly ;)
 #;
 #;
-#;  2015-05-24  administrator  <administrator@BensBIY-PC>
+#;  2015-05-24  jonnyboo6777  <unknownzonemobile@gmail.com>
 #;
 #;  * Further edits on syntax error by declaring type of variable later
 #;  on in the program.
